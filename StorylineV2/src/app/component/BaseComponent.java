@@ -3,11 +3,8 @@ package app.component;
 import org.apache.http.Header;
 import org.json.JSONArray;
 
-import com.nostra13.universalimageloader.core.ImageLoader;
-
 import android.app.Application;
 import android.content.Context;
-import android.support.v4.app.Fragment;
 import android.support.v4.app.ListFragment;
 import android.view.View;
 
